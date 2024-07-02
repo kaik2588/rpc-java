@@ -1,4 +1,4 @@
-package org.yzc.service;
+package org.yzc.server;
 
 import org.yzc.common.model.User;
 import org.yzc.common.service.UserService;
